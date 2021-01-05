@@ -9,11 +9,12 @@ int main() {
 		cout << i << endl;
 		i++;
 	} */
-
+	/*
 	// Do while example
 	int i = 1;
 	do {
 		cout << i << endl;
 		i ++;
-	} while (i <= 10);
+	} while (i <= 10); */
+
 }
